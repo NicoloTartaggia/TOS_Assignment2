@@ -11,6 +11,10 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
+////////////////////////////////////////////////////////////////////
+//[Nicolò] [Tartaggia] [1142836]
+////////////////////////////////////////////////////////////////////
+
 public class BellaNapoliBillTest {
 
     private MenuItem item1 = new MenuItem(ItemType.PIZZA, "Margeherita", 5.50);
